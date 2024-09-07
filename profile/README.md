@@ -1,9 +1,9 @@
-## passionate about security
+## curiousity in security
 
-Read the latest blog post: https://sussition.com
+Blog: https://sussition.com
 
-I offer security assessment consulting: https://sussition.com/consulting/
+Security assessments: https://sussition.com/consulting/
 
 ## contact
 
-Andrew - public@sussition.com
+public@sussition.com
