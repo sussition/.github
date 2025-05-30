@@ -1,9 +1,9 @@
-## curiousity in security
+## curiousity about tech, security & markets
 
-Blog: https://sussition.com
+Blogging at: https://sussition.com
 
-Security assessments: https://sussition.com/consulting/
+Need a security assessment?: https://sussition.com/consulting/
 
 ## contact
 
-public@sussition.com
+e: hey@sussition.com
