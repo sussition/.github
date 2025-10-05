@@ -1,7 +1,8 @@
 ## curious about tech, security & markets
 
-Blogging at: https://sussition.com
+Writings at: https://sussition.com
 
 ## contact
 
 e: hello@sussition.com
+x: https://x.com/sussition
